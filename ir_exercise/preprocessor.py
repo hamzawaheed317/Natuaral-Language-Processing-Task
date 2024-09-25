@@ -9,7 +9,7 @@ from ir_exercise.constants import DATA_FOLDER, DATA_PATH
 
 class Preprocessor:
     def __init__(self, download):
-        self.DOWNLOAD_LINK = "https://owncloud.tuwien.ac.at/index.php/s/vYqIvzwulnSKJl0/download"
+        self.DOWNLOAD_LINK = "https://owncloud.tuwien.ac.at/index.php/s/klYjT0Xq2HourVo/download"
         self.download = download
         self.data = []
 

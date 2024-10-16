@@ -33,7 +33,7 @@ During the exercise, you have to improve the starter system to satisfy the follo
       "expected_result":  "Dark Shadows (film)"
   },
   { 
-      "query": "Moran Sprlock vomits at McDonalds",
+      "query": "Mordan Spurlogg documentary about fast food",
       "expected_result": "Super Size Me"
   },
   { 

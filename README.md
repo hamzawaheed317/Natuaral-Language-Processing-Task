@@ -96,8 +96,8 @@ You can/should run the tests on your own to see how far you are:
 
 ## Deadlines
 
-- 10.10.24: Hand-out
-- 29.10.24 Milestone 1 Hand-in 
+- 15.10.24: Hand-out
+- 08.11.24 Milestone 1 Hand-in 
 - 28.11.24 Final Hand-in (Milestone 2)
 
 ## Start the search engine system

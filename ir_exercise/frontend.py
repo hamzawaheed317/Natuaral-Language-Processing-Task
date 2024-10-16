@@ -3,7 +3,7 @@ import json
 import requests
 import streamlit as st
 
-st.title("GIR exercise - 2022W")
+st.title("GIR exercise - 2024W")
 
 text_input = st.text_input(
     "Enter a search query 👇",
